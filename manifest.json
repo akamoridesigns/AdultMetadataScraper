@@ -1,0 +1,19 @@
+[
+  {
+    "name": "AdultMetadataScraper",
+    "guid": "f7d2b8e2-3c9a-4f8b-9b3d-5e7a2c1f4e3a",
+    "overview": "A Jellyfin plugin to scrape adult content metadata from IAFD, AdultFilmDatabase, Data18, Store18, and linked sites like AdultEmpire, Hot Movies, and studio pages. Supports manual metadata entry for unsupported sites.",
+    "description": "This plugin fetches metadata (title, actors, tags, runtime, etc.) from IAFD, AdultFilmDatabase, Data18, and Store18. It follows links to external sites like AdultEmpire, Hot Movies, AdultDVDEmpire, Nubiles, and BrattySis for additional data. For sites where scraping fails, it provides a manual entry interface to input or adjust metadata, with support for storing external URLs for reference, similar to Stash.",
+    "owner": "akamoridesigns",
+    "category": "Metadata",
+    "imageUrl": "https://cdn-img2.iporntv.net/videos/202307/28/436316901/thumbs_11/(m=eaAaGwObaaaa)(mh=qNQLH6rAgr129fkL)15.jpg",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "targetAbi": "10.10.7.0",
+        "sourceUrl": "https://github.com/akamoridesigns/AdultMetadataScraper/releases/download/v1.0.0/AdultMetadataScraper_1.0.0.0"
+      }
+    ]
+  }
+]
+
